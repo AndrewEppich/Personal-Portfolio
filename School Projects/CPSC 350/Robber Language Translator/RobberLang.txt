@@ -1,0 +1,3 @@
+Hello my name is andrew eppich!
+I like to play lacrosse.
+I like to code for data structures.
